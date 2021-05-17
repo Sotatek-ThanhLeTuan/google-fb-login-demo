@@ -1,22 +1,17 @@
 {
   "files": {
-    "main.css": "/google-fb-login-demo/static/css/main.ca33d33e.chunk.css",
-    "main.js": "/google-fb-login-demo/static/js/main.fd2b153e.chunk.js",
-    "main.js.map": "/google-fb-login-demo/static/js/main.fd2b153e.chunk.js.map",
+    "main.css": "/google-fb-login-demo/static/css/main.a7725e26.chunk.css",
+    "main.js": "/google-fb-login-demo/static/js/main.a256896e.chunk.js",
     "runtime-main.js": "/google-fb-login-demo/static/js/runtime-main.1b3149b9.js",
-    "runtime-main.js.map": "/google-fb-login-demo/static/js/runtime-main.1b3149b9.js.map",
     "static/js/2.e58a61d6.chunk.js": "/google-fb-login-demo/static/js/2.e58a61d6.chunk.js",
-    "static/js/2.e58a61d6.chunk.js.map": "/google-fb-login-demo/static/js/2.e58a61d6.chunk.js.map",
     "static/js/3.46d2d456.chunk.js": "/google-fb-login-demo/static/js/3.46d2d456.chunk.js",
-    "static/js/3.46d2d456.chunk.js.map": "/google-fb-login-demo/static/js/3.46d2d456.chunk.js.map",
     "index.html": "/google-fb-login-demo/index.html",
-    "static/css/main.ca33d33e.chunk.css.map": "/google-fb-login-demo/static/css/main.ca33d33e.chunk.css.map",
     "static/js/2.e58a61d6.chunk.js.LICENSE.txt": "/google-fb-login-demo/static/js/2.e58a61d6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1b3149b9.js",
     "static/js/2.e58a61d6.chunk.js",
-    "static/css/main.ca33d33e.chunk.css",
-    "static/js/main.fd2b153e.chunk.js"
+    "static/css/main.a7725e26.chunk.css",
+    "static/js/main.a256896e.chunk.js"
   ]
 }
