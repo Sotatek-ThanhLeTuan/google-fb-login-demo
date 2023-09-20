@@ -20,6 +20,9 @@ function App() {
     //     console.log(response);
     // };
 
+    console.log(123123);
+    console.log('password', '123123123123312321');
+
     return (
         <div className="App">
             <h2>Google Login OAuth2 - Deploy ver - 2</h2>
